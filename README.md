@@ -1,8 +1,8 @@
-#**glamourcamping**#
+#**glamourcamping**
 
 Repositorio para proyecto del módulo 0373 DAW
 
-##**Historia 1**##
+**Historia 1**
 
 **Objectiu:**
 
